@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayhan219" alt="ayhan219" /></a> </p>
 
-<h3 align="left">Connect with me: in/ayhan-taha-pastutmaz-50a65629b  </h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/ayhan-taha-pastutmaz-50a65629b/  </h3>
 <h3>Discord: ayhantahaa</h3>
 <p align="left">
 </p>
