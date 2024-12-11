@@ -1,4 +1,4 @@
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">On the path to becoming a Full Stack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayhan219" alt="ayhan219" /></a> </p>
 
