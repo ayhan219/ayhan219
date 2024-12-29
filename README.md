@@ -2,7 +2,7 @@
   <h3 align="center" style="font-size: 1.8em; margin-bottom: 20px;"> On the Path to Becoming a Full Stack Developer </h3>
 
   <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)">
       <img src="https://github-profile-trophy.vercel.app/?username=ayhan219&theme=radical" alt="Trophies" />
     </a>
   </div>
