@@ -1,5 +1,5 @@
 <div style="background: linear-gradient(to right, #1e3c72, #2a5298); color: #fff; font-family: Arial, sans-serif; padding: 20px; border-radius: 10px;">
-  <h3 align="center" style="font-size: 1.8em; margin-bottom: 20px;">🚀 On the Path to Becoming a Full Stack Developer 🚀</h3>
+  <h3 align="center" style="font-size: 1.8em; margin-bottom: 20px;"> On the Path to Becoming a Full Stack Developer </h3>
 
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
