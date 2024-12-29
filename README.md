@@ -3,7 +3,7 @@
 
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=ayhan219&theme=radical" alt="Trophies" />
+     <img src="https://github-profile-trophy.vercel.app/?username=ayhan219&theme=matrix" alt="Trophies" />
     </a>
   </div>
 
