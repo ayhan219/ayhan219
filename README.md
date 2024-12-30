@@ -65,7 +65,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayhan219&color=blue&style=flat-square)
 
-<div>
+<div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" />
 </div>
 </div>
