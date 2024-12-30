@@ -56,4 +56,18 @@
 </a>
 
   </div>
+
+  ## 📊 GitHub Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayhan219&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan219&layout=compact&theme=dark" alt="Top Languages" />
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayhan219&color=blue&style=flat-square)
+
+<div>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" />
+</div>
+</div>
+
+
