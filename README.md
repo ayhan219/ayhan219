@@ -1,7 +1,7 @@
 <div style="background: linear-gradient(rgba(30, 60, 114, 0.8), rgba(42, 82, 152, 0.8)), url('https://source.unsplash.com/1600x900/?software,developer'); background-size: cover; background-position: center; color: #fff; font-family: Arial, sans-serif; padding: 20px; border-radius: 10px; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">
   <h3 align="center" style="font-size: 1.8em; margin-bottom: 20px;"> On the Path to Becoming a Full Stack Developer</h3>
 
-  <div align="center">
+  <div>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
      <img src="https://github-profile-trophy.vercel.app/?username=ayhan219&theme=darkhub" alt="Trophies" />
     </a>
@@ -65,11 +65,7 @@
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan219&layout=donut&theme=dark" alt="Top Languages" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayhan219&theme=dark" alt="GitHub Streak" width="350" height="200" />
-  <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayhan219&theme=react-dark" alt="GitHub Streak" />
-    
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayhan219&theme=dark" alt="GitHub Streak" width="350" />
 </div>
 
 
