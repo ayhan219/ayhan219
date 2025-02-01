@@ -65,7 +65,7 @@
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan219&layout=donut&theme=dark" alt="Top Languages" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayhan219&theme=dark" alt="GitHub Streak" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayhan219&theme=dark" alt="GitHub Streak" width="350" height="200" />
   <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayhan219&theme=react-dark" alt="GitHub Streak" />
     
