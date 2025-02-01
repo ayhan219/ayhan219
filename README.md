@@ -64,7 +64,7 @@
 
   ## 📊 GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan219&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan219&layout=donut&theme=dark" alt="Top Languages" />
 </div>
 
 </div>
