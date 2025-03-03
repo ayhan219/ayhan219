@@ -36,8 +36,18 @@
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="40">
       <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge&logo=wind&logoColor=white" height="40">
     </p>
+
+  <br>
+
+
 </div>
 
+###  **Currently Learning:**
+<div style="display:flex">
+  Angular.js 
+  Next.js
+  Electron.js 
+</div>
 
 
 
