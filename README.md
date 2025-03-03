@@ -42,12 +42,13 @@
 
 </div>
 
-###  **Currently Learning:**
-<div style="display:flex">
-  Angular.js 
-  Next.js
-  Electron.js 
+<div style="display:flex; align-items:center;">
+  <h4>Currently Learning:</h4>
+  <div style="display:flex; margin-left: 10px;">
+    Angular.js &nbsp; | &nbsp; Next.js &nbsp; | &nbsp; Electron.js
+  </div>
 </div>
+
 
 
 
