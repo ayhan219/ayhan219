@@ -35,13 +35,6 @@
 
 
 </div>
-
- <h3 style="margin-top: 30px;">🌐 Connect with me:</h3>
-  <ul style="list-style: none; padding: 0; font-size: 1.2em;">
-    <li><a href="https://www.linkedin.com/in/ayhan-taha-pastutmaz-50a65629b/" target="_blank" style="color: #1da1f2; text-decoration: none;">LinkedIn</a></li>
-    <li>Discord: <span style="font-weight: bold;">ayhantahaa</span></li>
-  </ul>
-
 <div style="display:flex; align-items:center;">
   <h4>Currently Learning:</h4>
   <div style="display:flex; margin-left: 10px;">
