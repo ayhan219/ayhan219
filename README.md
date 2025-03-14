@@ -29,6 +29,7 @@
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="40">
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="40">
       <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge&logo=wind&logoColor=white" height="40">
+      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="40">
     </p>
 
   <br>
