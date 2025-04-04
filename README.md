@@ -31,6 +31,7 @@
       <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge&logo=wind&logoColor=white" height="40">
       <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="40">
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="40">
+      <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="40">
     </p>
 
   <br>
