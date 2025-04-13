@@ -37,7 +37,6 @@
 
   <br>
 
-
 </div>
 <div style="display:flex; align-items:center;">
   <h4>Currently Learning:</h4>
