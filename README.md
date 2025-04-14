@@ -42,7 +42,6 @@
     Angular.js &nbsp; | &nbsp; Next.js &nbsp; | &nbsp; Electron.js
   </div>
 </div>
-
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan219&layout=donut&theme=dark" alt="Top Languages" width="350" />
