@@ -35,7 +35,6 @@
       <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge&logo=wind&logoColor=white" height="40">
     </p>
   <br>
-
 </div>
 <div style="display:flex; align-items:center;">
   <h4>Currently Learning:</h4>
