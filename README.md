@@ -36,12 +36,6 @@
     </p>
   <br>
 </div>
-<div style="display:flex; align-items:center;">
-  <h4>Currently Learning:</h4>
-  <div style="display:flex; margin-left: 10px;">
-   &nbsp; Next.js &nbsp; | &nbsp; Electron.js
-  </div>
-</div>
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan219&layout=donut&theme=dark" alt="Top Languages" width="350" />
