@@ -1,11 +1,12 @@
 <div style="background: linear-gradient(rgba(30, 60, 114, 0.8), rgba(42, 82, 152, 0.8)), url('https://source.unsplash.com/1600x900/?software,developer'); background-size: cover; background-position: center; color: #fff; font-family: Arial, sans-serif; padding: 20px; border-radius: 10px; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">
   <h3 align="center" style="font-size: 1.8em; margin-bottom: 20px;"> On the Path to Becoming a Full Stack & Mobile Developer</h3>
 
-  <div>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=ayhan219&theme=darkhub" alt="Trophies" />
-    </a>
-  </div>
+ <p align="center">
+  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=ayhan219&theme=darkhub&no-frame=true&column=7" />
+</p>
+
+
+
 
 <br>
 <div align="center" style="background: linear-gradient(135deg, #1e1e2e, #252738, #2b2e4a); padding: 20px; border-radius: 10px;">
