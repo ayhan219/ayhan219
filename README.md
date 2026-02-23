@@ -2,13 +2,10 @@
   <h3 align="center" style="font-size: 1.8em; margin-bottom: 20px;"> On the Path to Becoming a Full Stack & Mobile Developer</h3>
 
  <p align="center">
-  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=ayhan219&theme=darkhub&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=ayhan219&theme=darkhub&no-frame=true&column=7&margin-w=0" />
 </p>
 
 
-
-
-<br>
 <div align="center" style="background: linear-gradient(135deg, #1e1e2e, #252738, #2b2e4a); padding: 20px; border-radius: 10px;">
     <h2 align="start" style="color: white;">💻 Tech Stack</h2>
     <p align="center">
@@ -43,7 +40,7 @@
   <p>Currently learning ASP.NET Core</p>
 </div>
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan219&layout=donut&theme=dark" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayhan219&layout=compact&theme=dark" width="350" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayhan219&theme=dark" alt="GitHub Streak" width="350" />
 </div>
 </div>
