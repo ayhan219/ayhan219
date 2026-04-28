@@ -3,7 +3,7 @@
 
 <p align="center">
   <span style="display:inline-block; transform: scale(1.2);">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayhan219&theme=darkhub&no-frame=true&column=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ayhan219&theme=aura" />
   </span>
 </p>
 
