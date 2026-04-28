@@ -1,5 +1,4 @@
 <div style="background: linear-gradient(rgba(30, 60, 114, 0.8), rgba(42, 82, 152, 0.8)), url('https://source.unsplash.com/1600x900/?software,developer'); background-size: cover; background-position: center; color: #fff; font-family: Arial, sans-serif; padding: 20px; border-radius: 10px; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">
-  <h3 align="center" style="font-size: 1.8em; margin-bottom: 20px;"> On the Path to Becoming a Full Stack & Mobile Developer</h3>
 
 <p align="center">
   <span style="display:inline-block; transform: scale(1.2);">
