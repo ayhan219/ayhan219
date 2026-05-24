@@ -7,7 +7,7 @@
 
 
 <div align="center" style="background: linear-gradient(135deg, #1e1e2e, #252738, #2b2e4a); padding: 20px; border-radius: 10px;">
-    <h2 align="start" style="color: white;">💻 Tech Stack</h2>
+    <h2 align="center" style="color: white; ">💻 Tech Stack</h2>
     <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="34">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="34">
