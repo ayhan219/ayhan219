@@ -1,7 +1,9 @@
 <div style="background: linear-gradient(rgba(30, 60, 114, 0.8), rgba(42, 82, 152, 0.8)), url('https://source.unsplash.com/1600x900/?software,developer'); background-size: cover; background-position: center; color: #fff; font-family: Arial, sans-serif; padding: 20px; border-radius: 10px; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  
+  <img src="home.gif"
+       style="width: 100%;  height: 200px; object-fit: cover;" />
+</div>
 
 <div align="center" style="background: linear-gradient(135deg, #1e1e2e, #252738, #2b2e4a); padding: 20px; border-radius: 10px;">
     <h2 align="center" style="color: white; ">💻 Tech Stack</h2>
