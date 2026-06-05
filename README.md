@@ -44,8 +44,8 @@
   <p>Currently learning ASP.NET Core</p>
 </div>
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayhan219&layout=compact&theme=dark" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayhan219&theme=dark" alt="GitHub Streak" width="350" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayhan219&layout=donut&theme=tokyonight" width="350" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ayhan219&theme=tokyonight" />
 </div>
 </div>
 
