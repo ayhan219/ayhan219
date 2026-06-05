@@ -2,7 +2,7 @@
 <div align="center">
   
   <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayhan219&theme=onedark" />
+  <img src="https://github-trophies.vercel.app/?username=ayhan219&theme=radical" />
 </div>
 
 <div align="center" style="background: linear-gradient(135deg, #1e1e2e, #252738, #2b2e4a); padding: 20px; border-radius: 10px;">
